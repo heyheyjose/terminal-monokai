@@ -6,9 +6,9 @@ The Monokai color scheme for OS X Terminal and iTerm
 
 ## How do I install it?
 
-1. Clone the repository `git clone git://github.com/stephenway/monokai.terminal.git`
-2. Open the `Monokai.terminal` or `Monokai.itermcolors` file to install.
-3. Optionally open up Terminal or iTerm  preferences for more options.
+1. Clone this repository
+2. Open the `Monokai.terminal` or `Monokai.itermcolors` file to install (depending on what you use)
+3. Then open up Terminal or iTerm  preferences to further customize as desired
 
 ## License
 
